@@ -1,4 +1,3 @@
-Main page of my personal website.
+Main page of [my personal website](https://tangdouer.cn)
 
-Inspired by https://www.garysheng.com/. Code forked by https://github.com/FilippeBodart/SitePessoalTreino
-
+fork from [Oyyko](https://github.com/Oyyko/mainpage)
